@@ -1,0 +1,2 @@
+above_1_second 14
+under_1_second 6

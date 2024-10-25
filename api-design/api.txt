@@ -1,0 +1,14 @@
+# API Definition for an Online Learning Platform
+
+## Courses
+- Upload a course 
+- Create insctructor profile
+- Get the status of a course 
+
+
+## Learners
+- Create a profile 
+- Search on a topic
+- View a course 
+- Purchase a course 
+- Listen to a course 
